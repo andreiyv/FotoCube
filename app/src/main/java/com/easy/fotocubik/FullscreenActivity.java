@@ -20,6 +20,8 @@ import android.widget.EditText;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+// Update from Windows
+
 public class FullscreenActivity extends Activity {
  //   public class FullscreenActivity extends    ActionBarActivity {
 
